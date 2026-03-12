@@ -88,7 +88,7 @@ Foi desenvolvida uma aplicação interativa com **Streamlit** que permite inseri
 
 Exemplo da interface:
 
-![Aplicação Streamlit](Images/StreamLit.png)
+![Aplicação Streamlit](Images/StreamLit_SVC.png)
 
 A aplicação permite:
 

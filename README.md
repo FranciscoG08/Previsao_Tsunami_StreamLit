@@ -147,7 +147,7 @@ streamlit run streamlit_modelo_SVC.py
 
 ---
 
-# Objetivo do Projeto
+# 🚀 Objetivo do Projeto
 
 O objetivo deste projeto é:
 
@@ -158,6 +158,6 @@ O objetivo deste projeto é:
 
 ---
 
-# Autor
+# 👤 Autor
 
 **Francisco Guedes**

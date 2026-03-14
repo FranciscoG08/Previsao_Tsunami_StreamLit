@@ -30,15 +30,15 @@ Variável alvo: tsunami
 
 ---
 
-# Modelos de Machine Learning
+# 🤖 Modelos de Machine Learning
 
 Foram testados vários modelos de classificação:
 
-### Modelos com normalização
+### 🤖 Modelos com normalização
 - Logistic Regression
 - Support Vector Machine (SVC)
 
-### Modelos sem normalização
+### 🤖 Modelos sem normalização
 - Random Forest
 - Decision Tree
 - Gradient Boosting
@@ -98,8 +98,9 @@ A aplicação permite:
 
 ---
 
-# Estrutura do Projeto
+# 📁 Estrutura do Projeto
 
+```
 Previsao_Tsunami_StreamLit
 │
 ├── data
@@ -122,6 +123,7 @@ Previsao_Tsunami_StreamLit
 │
 ├── requirements.txt
 └── README.md
+```
 
 ---
 
@@ -136,7 +138,7 @@ streamlit run streamlit_modelo_SVC.py
 
 ---
 
-# Tecnologias Utilizadas
+# 🧠 Tecnologias Utilizadas
 
 - Python
 - Pandas

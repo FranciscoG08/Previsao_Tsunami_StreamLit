@@ -99,19 +99,20 @@ A aplicação permite:
 ---
 
 # Estrutura do Projeto
+
 Previsao_Tsunami_StreamLit
 │
 ├── data
-│ └── earthquake_data_tsunami.csv
+│   └── earthquake_data_tsunami.csv
 │
 ├── models
-│ ├── modelo_tsunami_normalizado.pkl
-│ └── modelo_tsunami_nao_normalizado.pkl
+│   ├── modelo_tsunami_normalizado.pkl
+│   └── modelo_tsunami_nao_normalizado.pkl
 │
 ├── Images
-│ ├── StreamLit.png
-│ ├── Matriz_confusao_SVC.png
-│ └── classification_report.png
+│   ├── StreamLit.png
+│   ├── Matriz_confusao_SVC.png
+│   └── classification_report.png
 │
 ├── tsunami_normalizado_LR_SVC.ipynb
 ├── tsunami_RFC_GBC_DTC.ipynb
